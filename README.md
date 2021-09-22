@@ -10,7 +10,7 @@ The Beautiful Beadifier will save and open three outputs:
 3. **A bead counter.** An Excel file which details the number of each bead color required to build your final product. The number of pegboards required is also specified. Use this as your shopping list when buying beads and pegboards! [See bead counter for Gary.](https://github.com/LukeLash/Beautiful-Beadifier/blob/main/Outputs/gary/gary_15360_beads_COUNTER_COLOR.xlsx) 
 
 ## Use and Controls
-These control variables are modifiable in the `main.py` file.
+These control variables are modifiable in the `main.py` file:
 
 `sourceFilename_` The location of the input image. The accepted file types are .jpg, .jpeg, and .png.
 
