@@ -1,5 +1,5 @@
 # Beautiful-Beadifier
-Visualizes an input image as a large set of [fuse beads](https://www.google.com/search?q=fuse+beads&rlz=1C1ONGR_enUS942US942&sxsrf=AOaemvKP31wq8HmeJDoNF0ePfcJvXuiCRQ:1630972309504&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAr5WpxevyAhXSdd8KHZ6CCpcQ_AUoAnoECAEQBA&biw=1536&bih=722) (e.g., Perler Beads) for home decor. This program identifies the colors found in the input image and matches them to the most similar real-world fuse bead product.
+Visualizes an input image as a large set of [fuse beads](https://www.google.com/search?q=fuse+beads&rlz=1C1ONGR_enUS942US942&sxsrf=AOaemvKP31wq8HmeJDoNF0ePfcJvXuiCRQ:1630972309504&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAr5WpxevyAhXSdd8KHZ6CCpcQ_AUoAnoECAEQBA&biw=1536&bih=722) (e.g., Perler Beads) for home decor. This program identifies the colors found in an input image and matches them to the most similar real-world fuse bead product.
 
 The inspiration for this project [comes from here!](https://www.reddit.com/r/nextfuckinglevel/comments/jas2w4/how_op_made_leonardo_dicaprio/)
 
