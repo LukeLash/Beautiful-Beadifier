@@ -10,6 +10,8 @@ The Beautiful Beadifier will save and open three outputs:
 3. **A bead counter.** An Excel file which details the number of each bead color required to build your final product. The number of pegboards required is also specified. Use this as your shopping list when buying beads and pegboards! [See bead counter for Gary.](https://github.com/LukeLash/Beautiful-Beadifier/blob/main/Outputs/gary/gary_15360_beads_COUNTER_COLOR.xlsx) 
 
 ## Use and Controls
+These control variables are modifiable in the `main.py` file.
+
 `sourceFilename_` The location of the input image. The accepted file types are .jpg, .jpeg, and .png.
 
 `beadDiameter_` The size of the virtual beads (in units of pixels). A smaller bead results in higher resolution but longer runtime.
@@ -22,7 +24,7 @@ The Beautiful Beadifier will save and open three outputs:
 
 `backgroundColor_` An RGB tuple representing the color displayed both between the beads and within the holes of the beads. The typical selection is `(0, 0, 0)` for a black background.
 
-`beadBrands_` A list containing bead manufacturers whose beads are available for color matching. See the [Real_World Bead Data spreadsheet for available beads.](https://github.com/LukeLash/Beautiful-Beadifier/blob/main/Real_World%20Bead%20Data.xlsx). This list can be modified to permit color matching for one or more manufacturers.
+`beadBrands_` A list containing bead manufacturers whose beads are available for color matching. See the [Real_World Bead Data spreadsheet for available beads](https://github.com/LukeLash/Beautiful-Beadifier/blob/main/Real_World%20Bead%20Data.xlsx). This list can be modified to permit color matching for one or more manufacturers.
 
 `pegboardDimensions_` A tuple containing the width and height (in units of pegs) of a rectangular pegboard. For example, a pegboard [like this one](https://www.amazon.com/Boards-Square-Plastic-Pegboards-Suitable/dp/B087R9VQ51/ref=sr_1_9?crid=R1U6MYOFBCH2&dchild=1&keywords=fuse+bead+pegboard&qid=1630972923&sprefix=fuse+bead+peg%2Caps%2C178&sr=8-9) will have dimensions of `(29, 29)`. 
 
